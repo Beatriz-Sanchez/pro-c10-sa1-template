@@ -1,3 +1,4 @@
+var pesos = [35,38,40,45];
 
 function setup() 
 {
